@@ -43,7 +43,7 @@ To set up the project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/crime-data-dashboard.git
+   git clone https://github.com/hamidsaeed13/Crime-Data-Analysis-Dashboard.git
    cd crime-data-dashboard
 ## Screenshots
 
